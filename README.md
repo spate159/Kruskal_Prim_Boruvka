@@ -1,5 +1,5 @@
 # Kruskal_Prim_Boruvka
-This program is used to compare timing complexities of prim kruskal and boruvka minimum spanning tree algorithms.
+This program is used to compare time complexities of prim kruskal and boruvka minimum spanning tree algorithms.
 
 MainClass.java file has the main() code to run all three algorithm
 
